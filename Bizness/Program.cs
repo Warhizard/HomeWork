@@ -54,3 +54,4 @@ void PrintInfo(Person person)
         ((Boss)person).CantDoWork();
     }
 }
+
